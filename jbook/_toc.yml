@@ -1,0 +1,7 @@
+format: jb-book
+root: index
+chapters:
+- file: ipyleaflet
+- file: scipy_test
+- file: commit_test
+#- file: index

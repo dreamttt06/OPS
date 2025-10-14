@@ -1,0 +1,12 @@
+# Book settings
+title                       : "OPS_Handson"
+author                      : Shih Ran Lin
+copyright                   : "2025"
+logo                        : 
+
+# Execution settings
+execute:
+  execute_notebooks         : off  # Whether to execute notebooks at build time. Must be one of ("auto", "force", "cache", "off")
+
+bibtex_bibfiles:
+  - references.bib
