@@ -1,8 +1,8 @@
 # Book settings
-title                       : "OPS_Handson"
-author                      : Shih Ran Lin
+title                       : OPS_Handson
+author                      : Shih-Ran Lin
 copyright                   : "2025"
-logo                        : 
+logo                        : https://whyjz.github.io/ncu-open-science/_images/csrsr_logo.png
 
 # Execution settings
 execute:
@@ -10,3 +10,4 @@ execute:
 
 bibtex_bibfiles:
   - references.bib
+

@@ -4,4 +4,3 @@ chapters:
 - file: ipyleaflet
 - file: scipy_test
 - file: commit_test
-#- file: index
